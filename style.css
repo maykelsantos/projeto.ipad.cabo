@@ -1,10 +1,13 @@
 @charset "UTF-8";
 
 body {
-
+    background-image: url("imagens/multidao-interno.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 main {
-
+    text-align: center;
+    
 }
 h1 {
 
