@@ -1,7 +1,9 @@
 @charset "UTF-8";
 
+/* Paleta de cores, da mais clara a mais escura: #F2F2F2 #FDFCBA #DFBD54 #8B6846 #8F0302 */
+
 body {
-    background-color: #D9D1C7;
+    background-color: #F2F2F2;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 main {
