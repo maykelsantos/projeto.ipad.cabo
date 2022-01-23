@@ -1,19 +1,21 @@
 @charset "UTF-8";
 
 body {
-    background-image: url("imagens/multidao-interno.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #D9D1C7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 main {
     text-align: center;
-    
+    background-color: #A69E94;
+    margin:auto;
+    padding: 15px;
+    border-radius: 10px; 
 }
 h1 {
-
+    
 }
 h2 {
-
+    color: #593122;
 }
 p {
     
