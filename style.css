@@ -15,7 +15,7 @@ header {
     border-radius: 10px;
 }
 div {
-    box-shadow: 5px 5px #A69E94;
+    border: 1px solid #8F0302;
     padding: 15px;
     border-radius: 10px;
     width: 500px;
