@@ -13,6 +13,7 @@ header {
     background-image: url(imagens/maos-aos-alto.jpg);
     width: 600px;
     border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.329);
 }
 div {
     border: 1px solid #8F0302;
@@ -22,4 +23,5 @@ div {
     text-align: center;
     color: #593122;
     margin: auto;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.329);
 }
