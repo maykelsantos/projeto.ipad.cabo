@@ -3,6 +3,8 @@
 /* Paleta de cores, da mais clara a mais escura: #F2F2F2 #FDFCBA #DFBD54 #8B6846 #8F0302 */
 
 body {
+    display: flex;
+    flex-direction:column;
     background-color: #F2F2F2;
     background-image: url(/imagens/maos-aos-alto.jpg);
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
